@@ -41,7 +41,8 @@ This GitHub account hosts static web pages for Gilba Solutions. For enquiries, p
 
 **Gilba Solutions Pty Ltd**
 21 Thompson Street, Bowral NSW 2576, Australia
-Phone: [0499 975 819](tel:+61499975819)
+Phone: [04999 75819](tel:+61499975819)
+Email: [jerry@gilbasolutions.com](mailto:jerry@gilbasolutions.com)
 Hours: Monday to Friday, 8am to 5pm
 
 ## Follow
