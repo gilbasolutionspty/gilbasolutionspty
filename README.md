@@ -4,7 +4,7 @@
 
 Gilba Solutions Pty Ltd is an Australian sports turf consultancy, founded in 2013 by principal agronomist Jerry Spencer. The team assesses sportsgrounds, golf courses and council open spaces using soil, water and surface testing, then builds practical programs from the results. Gilba also supplies a focused range of turf products, from Australian-made turf pigment to LED grow lights and Wi-Fi turf sensors.
 
-This GitHub account hosts static web pages for Gilba Solutions. For enquiries, please use the contact details below rather than GitHub issues.
+For enquiries, please use the contact details below.
 
 ---
 
@@ -40,10 +40,11 @@ This GitHub account hosts static web pages for Gilba Solutions. For enquiries, p
 ## Contact
 
 **Gilba Solutions Pty Ltd**
-21 Thompson Street, Bowral NSW 2576, Australia
-Phone: [04999 75819](tel:+61499975819)
+Bowral NSW 2576, Australia (service area)
+Phone: [0499 975 819](tel:+61499975819) (international +61 499 975 819)
 Email: [jerry@gilbasolutions.com](mailto:jerry@gilbasolutions.com)
-Hours: Monday to Friday, 8am to 5pm
+Hours: Monday to Friday, 7:00am to 5:00pm
+ABN: 87 163 656 228
 
 ## Follow
 
